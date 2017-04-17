@@ -1,4 +1,4 @@
-package com.reactxptest;
+package org.klubitus;
 
 import android.app.Application;
 
